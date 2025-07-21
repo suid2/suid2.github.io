@@ -8,7 +8,7 @@
     <link href="/2025/07/21/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/"/>
     <url>/2025/07/21/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</url>
     
-    <content type="html"><![CDATA[<h1 id="我是测试页面"><a href="#我是测试页面" class="headerlink" title="我是测试页面"></a>我是测试页面</h1><p><a href="https://suid2.github.io/pdf/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%801-7%E6%9C%88%E7%9A%AE%E8%82%A4%E7%9B%98%E7%82%B9.pdf">测试用（点击下载PDF）</a></p><p>用于测试PDF是否能下载，请忽略此页面。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我是测试页面"><a href="#我是测试页面" class="headerlink" title="我是测试页面"></a>我是测试页面</h1><p><a href="https://suid2.github.io/pdf/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%801-7%E6%9C%88%E7%9A%AE%E8%82%A4%E7%9B%98%E7%82%B9.pdf">测试用（点击下载PDF）</a></p><div class="row">    <embed src="../pdf/王者荣耀1-7月皮肤盘点.pdf" width="100%" height="550" type="application/pdf"></div><p>用于测试PDF是否能下载，请忽略此页面。</p>]]></content>
     
     
     
