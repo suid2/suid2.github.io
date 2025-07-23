@@ -361,24 +361,15 @@
   
     <article id="comments" lazyload>
       
-  <div class="disqus" style="width:100%">
-    <div id="disqus_thread"></div>
-    
-      <script type="text/javascript">
-        var disqus_config = function() {
-          this.page.url = 'http://example.com/2025/07/20/3-5%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5/';
-          this.page.identifier = '/2025/07/20/3-5%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5/';
-        };
-        Fluid.utils.loadComments('#disqus_thread', function() {
-          var d = document, s = d.createElement('script');
-          s.src = '//' + 'fluid' + '.disqus.com/embed.js';
-          s.setAttribute('data-timestamp', new Date());
-          (d.head || d.body).appendChild(s);
-        });
-      </script>
-    
-    <noscript>Please enable JavaScript to view the comments</noscript>
-  </div>
+  <div id="SOHUCS" sid='http://example.com/2025/07/20/3-5%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5/'></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#SOHUCS', function() {
+      Fluid.utils.createScript("https://changyan.sohu.com/upload/changyan.js", function() {
+        window.changyan.api.config({"appid":"cyy1QQDPn","appkey":"fd67d3d0b993be21f252274cfbf43394"})
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
 
 
     </article>
